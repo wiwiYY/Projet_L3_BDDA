@@ -1,0 +1,2 @@
+javac -d dbms_lyz\bin \dbms_lyz\src\*.java
+java -cp dbms_lyz\bin Main.java
